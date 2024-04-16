@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mạnh+Bin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manh+Bin!;" />
 </h1>
 
 <h3 align="center">I'm a Web Developer</h3>
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,express,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,next,javascript,typescript,redux,styledcomponents" /><br>
+  <img src="https://skillicons.dev/icons?i=react,next,vue,javascript,typescript,redux,styledcomponents" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,git" />
 </div>
 <br>
