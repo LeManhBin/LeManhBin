@@ -45,7 +45,6 @@
   <img src="https://skillicons.dev/icons?i=react,next,javascript,typescript,redux,styledcomponents" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,git" />
 </div>
-  <br/><br/><br/>
 <br>
 <!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
