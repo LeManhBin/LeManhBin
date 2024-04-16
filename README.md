@@ -30,11 +30,6 @@
   </a>
 </div>
 
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
-<div align="center">
-<a href="" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
-</div>
-
 <p align="center">
   <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 </p>
