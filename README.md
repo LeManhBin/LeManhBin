@@ -19,7 +19,7 @@
  </div>
 
 <div align="center"> 
-  <a href="mailto:llemanhbin@gmail.com">
+  <a href="mailto:llemanhbin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/le-manh-bin/" target="_blank">
