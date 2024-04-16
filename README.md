@@ -11,9 +11,9 @@
 
 <div align="center">
 
- 🌍 I'm based in Vietnamese 
+ 🇻🇳 I'm based in Vietnamese 
  
- 🔭 I'm currently working at an outsourcing company
+ 🚀 I'm currently working at an outsourcing company
 
  
  </div>
