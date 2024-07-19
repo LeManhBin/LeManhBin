@@ -12,9 +12,6 @@
 
  🇻🇳 I'm based in Vietnamese 
  
- 🚀 I'm currently working at an outsourcing company
-
- 
  </div>
 
 <div align="center"> 
